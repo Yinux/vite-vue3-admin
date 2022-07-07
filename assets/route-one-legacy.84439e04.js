@@ -1,0 +1,1 @@
+System.register(["./index-legacy.507b014e.js"],(function(e){"use strict";var t,n,s;return{setters:[function(e){t=e.d,n=e.I,s=e.J}],execute:function(){e("default",t({name:"demos-nested-routes-one",setup:e=>(e,t)=>(n(),s("div",null,"路由一"))}))}}}));
